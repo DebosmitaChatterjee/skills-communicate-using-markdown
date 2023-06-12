@@ -1,2 +1,3 @@
 # this is view
 ##this is how headers work 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
